@@ -1,4 +1,4 @@
-# Student Result Calculator
+# Task 1 Student Result Calculator
 def get_marks(subject):
     while True :
         try:
